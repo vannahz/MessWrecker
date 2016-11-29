@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<database>127.0.0.1:3306</database>
+	<username>root</username>
+	<password>111111</password>
+	<schema>worksap</schema>
+</root>
